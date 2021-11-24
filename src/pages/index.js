@@ -136,7 +136,7 @@ class IndexPage extends React.Component {
           <Panel id={7} display={this.state.panels[7]} mode="light">
             <Description
               heading="Product"
-              paragraph="5+ experience years designing, building and scaling products."
+              paragraph="8+ years experience designing, building and scaling products."
             />
             <Description
               heading="Engineering"
